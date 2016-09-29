@@ -25,17 +25,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.user.first.Loading.Client.CLoading" />
-        <activity android:name="com.example.user.first.Home.CHome" />
-        <activity android:name="com.example.user.first.Emotion.CEmotion_List" />
-        <activity android:name="com.example.user.first.Setting.CSetting_List" />
-        <activity android:name="com.example.user.first.Emotion.CHappy" />
-        <activity android:name="com.example.user.first.Emotion.CSad" />
-        <activity android:name="com.example.user.first.Emotion.CAnger" />
-        <activity android:name="com.example.user.first.Emotion.CDisGust" />
-        <activity android:name="com.example.user.first.Emotion.CPanic" />
-        <activity android:name="com.example.user.first.Story.StoryList.View.CStoryListClient" />
-        <activity android:name="com.example.user.first.Story.Story.PlayerView.CStory_Player" />
+        <activity android:name="com.example.user.first.Loading.Client.CLoadingClient" />
+        <activity android:name="com.example.user.first.Home.CHomeClient" />
+        <activity android:name="com.example.user.first.Emotion.Client.CEmotionClient" />
+        <activity android:name="com.example.user.first.Setting.CSettingClient" />
+        <activity android:name="com.example.user.first.StoryList.Client.CStoryListClient" />
+        <activity android:name="com.example.user.first.StoryPlayer.Client.CStoryPlayerClient" />
         <activity android:name="com.example.user.first.UiSetting.CMyText" />
     </application>
 
