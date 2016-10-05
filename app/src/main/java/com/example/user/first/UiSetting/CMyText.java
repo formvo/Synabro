@@ -15,7 +15,7 @@ import com.example.user.first.R;
  */
 public class CMyText extends AppCompatActivity
 {
-    EditText editText;
+    EditText editText,dkdk1;
 
     public final static String EXTRA_MESSAGE = "unikys.todo.MESSAGE";
 
